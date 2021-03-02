@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
    name = "html2text",
-   version = "3.100.1",
+   version = "2.100.1",
    description = "Turn HTML into equivalent Markdown-structured text.",
    author = "Aaron Swartz",
    author_email = "me@aaronsw.com",
